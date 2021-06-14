@@ -1,7 +1,7 @@
 ### Hi there, I'm Fan of AI👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=shobhitsrivastava-ds&color=yellow)</div>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Computer Vision Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 - 🔭 I’m currently working on AI Product based Development.
@@ -23,8 +23,7 @@
 
 - Portfolio : https://shobhitsrivastava-ds.github.io/My_Portfolio/
 - Linkedin : https://www.linkedin.com/in/techydhana-ai/
-- Medium : https://medium.com/@shobhitsrivastava18th
-- Email : creatorslab.ma@gmail.com@gmail.com
+- Email : creatorslab.ma@gmail.com
 
 <!--
 <p align="center">
