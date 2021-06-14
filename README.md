@@ -14,9 +14,6 @@
 - ⚡ Fun fact: You lose up to 30 percent of your taste buds during flight.
 <br><br>
 <br>
-
-<p align= "center"><img src="https://media2.giphy.com/media/QmGShkWAWid2hzCqHE/giphy.gif" width= "35" height= "70"></p>
-
 <hr>
 <img src="https://spectrapackautomation.com/img/contactme.gif" />
 
