@@ -1,9 +1,9 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.linkedin.com/in/ketan-gangal/">
+<a href="https://www.linkedin.com/in/techydhana-ai/">
   <img align="left" alt="Ketan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<a href="https://twitter.com/ketan_gangal">
+<a href="https://twitter.com/aiprofessor_">
   <img align="left" alt="Ketan Gangal | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
