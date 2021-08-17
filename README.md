@@ -7,7 +7,7 @@
   <img align="left" alt="Ketan Gangal | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=ketangangal.ketangangal)
+![](https://visitor-badge.glitch.me/badge?page_id=ai-professor)
 
 <br />
 
@@ -16,7 +16,7 @@ Hello, My Name is Dhanasekar, a passionate and Aspiring Data Scientist. I am enh
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Reach me via Twitter: [aiprofessor_](https://twitter.com/aiprofessor_);
+- 📫 Reach me via Telegram: [aiprofessor_](https://t.me/ai_professor)
 <!--
 - ✨ **Wanna Talk?** [calendly](https://calendly.com/ketangangal)
 - 📝 [Resume](https://drive.google.com/file/d/1yPVZqfquTSjbANOXy-0Lf5ubRdSfHpqI/view?usp=sharing)
